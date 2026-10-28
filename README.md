@@ -36,7 +36,8 @@
 <!--                   ABOUT ME (ENCADRÉ 4 COINS)              -->
 <!-- ========================================================= -->
 
-<div style="border: 2px solid #3776AB; border-radius: 10px; padding: 20px; background-color: rgba(55, 118, 171, 0.03);">
+<!--<div style="border: 2px solid #3776AB; border-radius: 10px; padding: 20px; background-color: rgba(55, 118, 171, 0.03);">-->
+<div style="border: 2px solid #3776AB; border-left: 8px solid #3776AB; border-right: 8px solid #3776AB; border-radius: 10px; padding: 25px; background-color: rgba(55, 118, 171, 0.03);">
 
 <h2 align="center">👩‍💻 About Me</h2>
 
@@ -45,6 +46,41 @@
   💻 <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
                                              | Location: Kinshasa DRC 🇨🇩
 </p>
+<!-- <!-- ========================================================= -->
+<!--                   ABOUT ME (JUSTIFIÉ & ENCADRÉ)           -->
+<!-- ========================================================= -->
+
+
+
+<!--<h2 align="center">👩‍💻 About Me</h2>-->
+
+<div align="center">
+<!--  <b>Hi 👋 I'm Bienvni keba</b><br>
+  💻 <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
+  I love sports, especially football 🙂, I also play football and video games. | Location: Kinshasa DRC 🇨🇩
+</p>-->
+
+<p style="text-align: justify;">
+  I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.
+</p>
+
+<p style="text-align: justify;">
+  I'm doing some personal research to find out more. To deepen my knowledge, I am taking several online courses in the fields of technology.
+</p>
+
+<p style="text-align: justify;">
+  I completed my primary and secondary education in 2025 with a state diploma, and in secondary school, I am studying the technical option: general electricity, and at the same time I was learning computer programming.
+</p>
+
+<p style="text-align: justify;">
+  I would like to participate in the development and revolution of the world of science and technology. I would like to make a contribution in many areas of science and technology.
+</p>
+
+<p style="text-align: justify;">
+  I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
+</p>
+
+</div>
 
 <p align="center">
   I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.<br>
@@ -52,7 +88,7 @@
   I completed my primary and secondary education in 2025 with a state diploma, and in secondary school, I am studying the technical option: general electricity, and at the same time I was learning computer programming.<br>
   I would like to participate in the development and revolution of the world of science and technology. I would like to make a contribution in many areas of science and technology.<br>
   I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
-</p>
+</p></div>
 
 </div>
 
@@ -67,7 +103,7 @@
 <div style="border: 2px solid #3776AB; border-radius: 10px; padding: 20px; background-color: rgba(55, 118, 171, 0.03);">
 <h2 align="center">📜 Certificates & Achievements</h2>
 <div align="center">
-  <p><em>(Espace réservé pour vos futurs certificats...)</em></p>
+  <p><em>(Espace réservé pour MES futurs certificats...)</em></p>
 </div>
 </div>
 <p align="center">
@@ -82,7 +118,7 @@
 <div style="border: 2px solid #3776AB; border-radius: 10px; padding: 20px; background-color: rgba(55, 118, 171, 0.03);">
 <h2 align="center">🚀 Featured Projects & Work</h2>
 <div align="center">
-  <p><em>(Espace réservé pour vos futurs projets...)</em></p>
+  <p><em>(Espace réservé pour mes futurs projets...)</em></p>
 </div>
 </div>
 <p align="center">
@@ -130,7 +166,7 @@
 🐧 Linux Environment<br>
 🐙 GitHub & VS Code<br>
 🎮 Unity & SDL2<br>
-🍓 Raspberry Pi<br>
+🍓 Raspberry Pi & MicroPython<br>
 ⚡ Technical tools in electricity & electronics
 </p>
 
@@ -150,7 +186,8 @@
 🧪 <b>Science</b> <i></i><br>
 ⚛️ <b>Physics & Mathematics</b> <i></i><br>
 🔭 <b>Astronomy</b> <i>(beginner)</i><br>
-🧠 AI & Neural Networks
+🧠 AI & Neural Networks<br>
+🔓 <b>Cryptography</b>
 </p>
 
 </td>
