@@ -82,13 +82,14 @@
 
 </div>
 
-<p align="center">
+<!--<p align="center">
   I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.<br>
   I'm doing some personal research to find out more. To deepen my knowledge, I am taking several online courses in the fields of technology.<br>
   I completed my primary and secondary education in 2025 with a state diploma, and in secondary school, I am studying the technical option: general electricity, and at the same time I was learning computer programming.<br>
   I would like to participate in the development and revolution of the world of science and technology. I would like to make a contribution in many areas of science and technology.<br>
   I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
-</p></div>
+</p>-->
+</div>
 
 </div>
 
