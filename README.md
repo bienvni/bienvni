@@ -1,10 +1,17 @@
 <!-- ========================================================= -->
 <!--                  ANIMATED TOP BANNER                      -->
 <!-- ========================================================= -->
-<p align="center">
+<!--<p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:00599C,100:6CF0FF&height=200&section=header&text=Bienvni%20Keba&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=I%20am%20enthusiastic%20about%20technology%20and%20science.%20(STEM,%20Energy,%20Physical)&descAlignY=58&descSize=16"
+    alt="Bienvni Keba banner"
+  />
+</p>-->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:7AA2F7,100:BB9AF7&height=200&section=header&text=Bienvni%20Keba&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=I%20am%20enthusiastic%20about%20technology%20and%20science.%20(STEM,%20Energy,%20Physical)&descAlignY=58&descSize=16"
     alt="Bienvni Keba banner"
   />
 </p>
@@ -326,7 +333,8 @@
 
 <div align="center">
   <blockquote>
-    <p><b>Name:</b> Bienvni Keba</p>
+    <p><b>Name:</b> Bienvni Suamunu Zola<br>
+    Second middle name: Keba</p>
     <p><b>Based in:</b> Kinshasa, Democratic Republic of the Congo (DRC) 🇨🇩</p><p>I love sports, especially football 🙂, I also play football and video games.</p>
     <p><b>Current Status:</b> High School Graduate (General Electricity, 2025) & Self-Taught Developer & Cybersecurity Enthusiast</p>
     <br>
