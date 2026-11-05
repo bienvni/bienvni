@@ -142,11 +142,16 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,javascript,cs,cpp,html,css,github,vscode,unity,raspberrypi,tensorflow,termux,windows,android,linux&perline=12"
+    src="https://skillicons.dev/icons?i=python,r,java,javascript,cs,cpp,html,css,github,vscode,unity,raspberrypi,tensorflow,pytorch,windows,godot,typescript,angular,tailwindcss,android,linux&perline=12"
     alt="Tech Stack with Termux, Windows, Android, Linux & AI"
-  />
+    /image>
 </p>
-
+<p align="center">
+  <img
+src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" 
+/image>
+  
+</p>
 <table align="center" width="100%">
 <tr>
 
@@ -155,9 +160,9 @@
 ### 💻 Computer Languages
 
 <p>
-🐍 <b>Python</b> <i>(Primary / Core)</i><br>
+🐍 <b>Python & R </b> <i>(Primary / Core)</i><br>
 🌐 JavaScript<br>
-⚡ C# & C/C++<br>
+⚡ C# & C/C++ & java <br>
 🎨 HTML / CSS<br>
 🤖 Machine learning (generative AI, deep learning, LLMs) <i>(beginner)</i>
 </p>
@@ -173,9 +178,10 @@
 🪟 Windows & 🤖 Android<br>
 🐧 Linux Environment<br>
 🐙 GitHub & VS Code<br>
-🎮 Unity & SDL2<br>
+🎮 Unity & SDL2 & Godot engine<br>
 🍓 Raspberry Pi & MicroPython<br>
 ⚡ Technical tools in electricity & electronics
+  
 </p>
 
 </td>
@@ -217,8 +223,10 @@
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/metasploit/2496ED" width="45" alt="Metasploit" />
   <img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="45" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-1ac9ff?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Aircrack-ng">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+ <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </p>
 
 <table align="center" width="100%">
