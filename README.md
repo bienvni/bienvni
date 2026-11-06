@@ -142,7 +142,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,r,java,javascript,cs,cpp,html,css,github,vscode,unity,raspberrypi,tensorflow,pytorch,windows,godot,typescript,angular,tailwindcss,android,linux&perline=12"
+    src="https://skillicons.dev/icons?i=python,r,java,javascript,cs,cpp,html,css,github,vscode,kotlin,unity,raspberrypi,tensorflow,pytorch,windows,godot,unrealengine,typescript,angular,react,tailwindcss,matlab,autocad,pycharm,arduino,django,android,powershell,simscapeelectrical,linux&perline=12"
     alt="Tech Stack with Termux, Windows, Android, Linux & AI"
     /image>
 </p>
@@ -150,6 +150,7 @@
   <img
 src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" 
 /image>
+
   
 </p>
 <table align="center" width="100%">
@@ -342,7 +343,7 @@ src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&
 <div align="center">
   <blockquote>
     <p><b>Name:</b> Bienvni Suamunu Zola<br>
-    Second middle name: Keba</p>
+     middle name: Keba</p>
     <p><b>Based in:</b> Kinshasa, Democratic Republic of the Congo (DRC) 🇨🇩</p><p>I love sports, especially football 🙂, I also play football and video games.</p>
     <p><b>Current Status:</b> High School Graduate (General Electricity, 2025) & Self-Taught Developer & Cybersecurity Enthusiast</p>
     <br>
