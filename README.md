@@ -58,8 +58,8 @@
     <polyline points="4 17 10 11 4 5"></polyline>
     <line x1="12" y1="19" x2="20" y2="19"></line>
   </svg>
- <!-- <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
-  | Location: Kinshasa DRC-->
+  <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
+  
   <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;">
     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
     <circle cx="12" cy="10" r="3"></circle>
@@ -69,8 +69,8 @@
 <!--                     ABOUT ME                              -->
 <!-- ========================================================= -->
 
-<!--<div align="center">-->
-<!--
+<div align="center">
+
 <p style="text-align: justify;">
   I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.
 </p>
@@ -85,50 +85,13 @@
 </p>
 <p style="text-align: justify;">
   I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
-</p>-->
-<code>
-<pree style="color:blue";>
-  class BienvniKeba:
-    """
-    Hi, I'm Bienvni Keba.
-    Passionate about programming, automation, cybersecurity, advanced technologies, and science.
-    | Location: Kinshasa, DRC
-    """
-    def __init__(self):
-        self.mindset = (
-            "I am so curious and thirsty for knowledge. I am interested in technology "
-            "and science because they are the foundation."
-        )
-        self.education = (
-            "I completed my primary and secondary education in 2025 with a state diploma. "
-            "In secondary school, I studied the technical option: general electricity, "
-            "and at the same time, I was learning computer programming."
-        )
-    def current_activities(self):
-        return (
-            "I'm doing some personal research to find out more. "
-            "To deepen my knowledge, I am taking several online courses in the fields of technology."
-        )
-    def vision_and_goals(self):
-        ambition = (
-            "I would like to participate in the development and revolution of the world "
-            "of science and technology. I would like to make a contribution in many areas "
-            "of science and technology."
-        )
-        long_term_project = (
-            "I have a long-term goal, a grand vision, and a project for the future. "
-            "As I said earlier, part of my vision is to create an industry, company, or corporation "
-            "that would bring developments to several sectors of technology and science."
-        )
-        return ambition, long_term_project
-if __name__ == "__main__":
-    profile = BienvniKeba()
-</pree>
-</code>
-
+</p>
 </div>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bienvni/bienvni/terminal-output/terminal.svg" alt="BienvniKeba Terminal Animation" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:6CF0FF&height=3&width=1000" alt="divider" />
