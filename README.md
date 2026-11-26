@@ -417,7 +417,14 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bienvni&theme=tokyonight"
       alt="Bienvni Top Languages"
     />
+    
   </a>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=bienvni&theme=tokyonight&hide_border=true" width="40%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvni&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
 </p>
 
 <p align="center">
