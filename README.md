@@ -424,6 +424,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:6CF0FF&height=3&width=1000" alt="divider" />
 </p>
 
+
+</br>
+<br>
+</br>
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00FF66" stroke-width="2" style="vertical-align: middle;">
+    <path d="M4 12h4l2-6 4 12 2-6h4"></path>
+  </svg>
+  Activity Graph
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bienvni/bienvni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+</br>
+<br>
+
 <!-- ========================================================= -->
 <!--                       LANGUAGES                           -->
 <!-- ========================================================= -->
@@ -444,6 +466,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:6CF0FF&height=3&width=1000" alt="divider" />
 </p>
+
 
 <!-- ========================================================= -->
 <!--                PERSONAL INFO / PRE-FOOTER                 -->
