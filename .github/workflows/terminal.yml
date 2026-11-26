@@ -43,7 +43,8 @@ jobs:
                   self.mindset = (
                       "I am so curious and thirsty for knowledge. I am interested in technology "
                       "and science because they are the foundation.\n\n"
-                      "Curious and driven by a constant thirst for knowledge"
+                      
+                      "\n\nCurious and driven by a constant thirst for knowledge"
                      "I explore the intersection of physical engineering (general electricity, electronics, automation, smart grids)\n"
                      "and digital engineering (software development, data science, artificial intelligence, and cybersecurity)\n"
                       "with the long-term ambition of building a multi-sector technology industry"
