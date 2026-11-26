@@ -40,9 +40,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:6CF0FF&height=3&width=1000" alt="divider" />
 </p>
 
-<!-- ========================================================= -->
-<!--                   ABOUT ME (ENCADRÉ 4 COINS)              -->
-<!-- ========================================================= -->
 
 <!--<div style="border: 2px solid #3776AB; border-radius: 10px; padding: 20px; background-color: rgba(55, 118, 171, 0.03);">-->
 <div style="border: 2px solid #3776AB; border-left: 8px solid #3776AB; border-right: 8px solid #3776AB; border-radius: 10px; padding: 25px; background-color: rgba(55, 118, 171, 0.03);">
@@ -191,15 +188,15 @@
       <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/openssl/721412" width="48" height="48" alt="Cryptography" /></td>
       <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" alt="Physics &amp; Mathematics" /></td>
       <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/nasa/0B3D91" width="48" height="48" alt="Astronomy" /></td>
+      <td align="center" width="64" height="64"> <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" /></td>
+      <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma" /></td>
+      <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firebase" /></td>
+      <td align="center" width="64" height="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /></td>
+      <td align="center" width="64" height="64"><img src="https://www.google.com/s2/favicons?domain=powerbi.microsoft.com&sz=64" width="48" height="48" alt="Power BI" /></td>
+      <td align="center" width="64" height="64"><img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB / Simulink" /></td>
+      <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/kicad/314CB0" width="48" height="48" alt="KiCad" /></td>
       <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
-      <td align="center" width="64" height="64"></td>
+      <td align="center" width="64" height="64"><img src="https://cdn.simpleicons.org/ros/22314E" width="48" height="48" alt="ROS" /></td>
     </tr>
   </table>
 </div>
