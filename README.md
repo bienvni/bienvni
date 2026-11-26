@@ -329,7 +329,7 @@
 </tr>
 </table>
 
-<h2 align="center">OTHERS TOOLS</h2>
+<h2 align="center">OTHER TOOLS</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Nmap-Scanner-4682B4?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
