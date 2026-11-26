@@ -58,7 +58,7 @@
     <polyline points="4 17 10 11 4 5"></polyline>
     <line x1="12" y1="19" x2="20" y2="19"></line>
   </svg>
-  <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
+ <pree>  Passionate about Science, Tech, Engineering, Energy, Cybersecurity, and Math<br></pree>
   
   <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;">
     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
@@ -70,7 +70,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
+<!--
 <p style="text-align: justify;">
   I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.
 </p>
@@ -86,7 +86,7 @@
 <p style="text-align: justify;">
   I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
 </p>
-</div>
+</div>-->
 
 </div>
 <p align="center">
