@@ -42,9 +42,10 @@ jobs:
               def __init__(self):
                   self.mindset = (
                       "I am so curious and thirsty for knowledge. I am interested in technology "
-                      "and science because they are the foundation."
-                     "I explore the intersection of physical engineering (general electricity, electronics, automation, smart grids)"
-                     "and digital engineering (software development, data science, artificial intelligence, and cybersecurity)"
+                      "and science because they are the foundation. 
+                      "
+                     "I explore the intersection of physical engineering (general electricity, electronics, automation, smart grids) "
+                     "and digital engineering (software development, data science, artificial intelligence, and cybersecurity)  "
                       "with the long-term ambition of building a multi-sector technology industry"
                       
                   )
