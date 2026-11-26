@@ -1,3 +1,4 @@
+
 <!-- ========================================================= -->
 <!--                  ANIMATED TOP BANNER                      -->
 <!-- ========================================================= -->
@@ -213,11 +214,11 @@
 ### <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg> Computer Languages
 
 <p align="left">
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#3776AB" stroke-width="2" style="vertical-align: middle;"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg> <b>Python &amp; R </b> <i>(Primary / Core)</i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#F7DF1E" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line></svg> JavaScript<br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#00599C" stroke-width="2" style="vertical-align: middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> C# &amp; C/C++ &amp; java <br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#E34F26" stroke-width="2" style="vertical-align: middle;"><rect x="3" y="3" width="18" height="18" rx="2"></rect></svg> HTML / CSS<br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><rect x="4" y="4" width="16" height="16" rx="2"></rect><rect x="9" y="9" width="6" height="6"></rect></svg> Machine learning (generative AI, deep learning, LLMs) <i>(beginner)</i>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#3776AB" stroke-width="2" style="vertical-align: middle;"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg> <b>Python &amp; R </b> <i>(Primary / Core)</i><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#F7DF1E" stroke-width="2" style="vertical-align: middle;"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg> JavaScript<br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#00599C" stroke-width="2" style="vertical-align: middle;"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M9 9h6v6H9z"></path></svg> C# &amp; C/C++ &amp; java <br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#E34F26" stroke-width="2" style="vertical-align: middle;"><rect x="2" y="3" width="20" height="14" rx="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg> HTML / CSS<br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg> Machine learning (generative AI, deep learning, LLMs) <i>(beginner)</i>
 </p>
 
 </td>
@@ -247,13 +248,13 @@
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg> Cybersecurity &amp; ethical hacking <i>(beginner)</i><br>
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> General electricity<br>
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><rect x="2" y="3" width="20" height="14" rx="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line></svg> Game / Web / Mobile / AI development <i>(junior)</i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="3"></circle></svg> Automation <i>(junior)</i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><rect x="4" y="4" width="16" height="16" rx="2"></rect></svg> Robotics <i>(junior)</i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#3776AB" stroke-width="2" style="vertical-align: middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> Smart grid &amp; Energy<i>(beginner)</i><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="3"></circle><path d="M12 1v3M12 20v3M4.22 4.22l2.12 2.12M17.66 17.66l2.12 2.12M1 12h3M20 12h3"></path></svg> Automation <i>(junior)</i><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><rect x="4" y="6" width="16" height="12" rx="2"></rect><circle cx="9" cy="12" r="1.5"></circle><circle cx="15" cy="12" r="1.5"></circle></svg> Robotics <i>(junior)</i><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#3776AB" stroke-width="2" style="vertical-align: middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon><circle cx="18" cy="6" r="2"></circle></svg> Smart grid &amp; Energy<i>(beginner)</i><br>
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><path d="M9 3h6v2H9zM10 5v6l-4 7h12l-4-7V5"></path></svg> <b>Science</b> <i></i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="8"></circle><ellipse cx="12" cy="12" rx="8" ry="3"></ellipse></svg> <b>Physics &amp; Mathematics</b> <i></i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="5"></circle><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42"></path></svg> <b>Astronomy</b> <i>(beginner)</i><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="4"></circle></svg> AI &amp; Neural Networks<br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="8"></circle><ellipse cx="12" cy="12" rx="8" ry="3"></ellipse><ellipse cx="12" cy="12" rx="3" ry="8"></ellipse></svg> <b>Physics &amp; Mathematics</b> <i></i><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="4"></circle><path d="M2 12h3M19 12h3M12 2v3M12 19v3M4.93 4.93l2.12 2.12M16.95 16.95l2.12 2.12"></path></svg> <b>Astronomy</b> <i>(beginner)</i><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="3"></circle><circle cx="6" cy="7" r="2"></circle><circle cx="18" cy="7" r="2"></circle><line x1="8" y1="8.5" x2="10" y2="10.5"></line><line x1="16" y1="8.5" x2="14" y2="10.5"></line></svg> AI &amp; Neural Networks<br>
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><rect x="3" y="11" width="18" height="11" rx="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg> <b>Cryptography</b>
 </p>
 
@@ -302,9 +303,9 @@
 ### <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg> Offensive Security / Red Team &amp; Blue Team
 
 <p align="left">
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FF5555" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="8"></circle></svg> Red Team Operations<br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="8"></circle></svg> Blue Team Defense<br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><path d="M9 3h6v2H9zM10 5v6l-4 7h12l-4-7V5"></path></svg> Penetration Testing<br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FF5555" stroke-width="2" style="vertical-align: middle;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M9 12l2 2 4-4"></path></svg> Red Team Operations<br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><circle cx="12" cy="11" r="2"></circle></svg> Blue Team Defense<br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg> Penetration Testing<br>
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> OSINT &amp; Reconnaissance
 </p>
 
@@ -315,11 +316,15 @@
 ### <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg> Security, Pentesting &amp; OSINT Tools
 
 <p align="left">
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> <b>Nmap</b> &amp; <b>Wireshark</b><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> <b>Metasploit</b> &amp; <b>Burp Suite</b><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><rect x="3" y="11" width="18" height="11" rx="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg> <b>Hydra</b> &amp; <b>John the Ripper</b><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line></svg> <b>Sherlock</b> &amp; <b>SpiderFoot</b><br>
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"></circle></svg> <b>theHarvester</b>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="9"></circle><line x1="12" y1="3" x2="12" y2="21"></line><line x1="3" y1="12" x2="21" y2="12"></line></svg> <b>Nmap</b> &amp;
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><path d="M2 12c3-6 7-6 10 0s7 6 10 0"></path><path d="M2 17c3-4 7-4 10 0s7 4 10 0"></path></svg> <b>Wireshark</b><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FF5555" stroke-width="2" style="vertical-align: middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> <b>Metasploit</b> &amp;
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FF6600" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="9"></circle><line x1="3" y1="12" x2="21" y2="12"></line></svg> <b>Burp Suite</b><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path></svg> <b>Hydra</b> &amp;
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#7AA2F7" stroke-width="2" style="vertical-align: middle;"><rect x="3" y="11" width="18" height="11" rx="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg> <b>John the Ripper</b><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#6CF0FF" stroke-width="2" style="vertical-align: middle;"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> <b>Sherlock</b> &amp;
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#BB9AF7" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="3"></circle><circle cx="12" cy="12" r="8"></circle><line x1="12" y1="2" x2="12" y2="4"></line><line x1="12" y1="20" x2="12" y2="22"></line></svg> <b>SpiderFoot</b><br>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#3776AB" stroke-width="2" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg> <b>theHarvester</b>
 </p>
 
 </td>
@@ -518,5 +523,3 @@
   I would like to participate in the development and revolution of the world of science and technology. I would like to make a contribution in many areas of science and technology.<br>
   I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
 </p>-->
-
-
