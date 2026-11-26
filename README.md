@@ -420,9 +420,9 @@
     
   </a>
   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bienvni&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=bienvni&theme=tokyonight&hide_border=true" width="55%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvni&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  
 </p>
 
 </p>
