@@ -1,0 +1,163 @@
+name: generate terminal animation
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/terminal.yml"
+
+jobs:
+  build-terminal-svg:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate terminal SVG from BienvniKeba class
+        run: |
+          mkdir -p build
+          python3 - <<'EOF'
+          import html
+          import textwrap
+
+          class BienvniKeba:
+              """
+              Hi, I'm Bienvni Keba.
+              Passionate about programming, automation, cybersecurity, advanced technologies, and science.
+              | Location: Kinshasa, DRC
+              """
+
+              def __init__(self):
+                  self.mindset = (
+                      "I am so curious and thirsty for knowledge. I am interested in technology "
+                      "and science because they are the foundation."
+                  )
+                  self.education = (
+                      "I completed my primary and secondary education in 2025 with a state diploma. "
+                      "In secondary school, I studied the technical option: general electricity, "
+                      "and at the same time, I was learning computer programming."
+                  )
+
+              def current_activities(self):
+                  return (
+                      "I'm doing some personal research to find out more. "
+                      "To deepen my knowledge, I am taking several online courses in the fields of technology."
+                  )
+
+              def vision_and_goals(self):
+                  ambition = (
+                      "I would like to participate in the development and revolution of the world "
+                      "of science and technology. I would like to make a contribution in many areas "
+                      "of science and technology."
+                  )
+                  long_term_project = (
+                      "I have a long-term goal, a grand vision, and a project for the future. "
+                      "As I said earlier, part of my vision is to create an industry, company, or corporation "
+                      "that would bring developments to several sectors of technology and science."
+                  )
+                  return ambition, long_term_project
+
+          p = BienvniKeba()
+          ambition, long_term = p.vision_and_goals()
+
+          raw_lines = [
+              "$ python3 profile_cli.py --inspect BienvniKeba",
+              "[class BienvniKeba] :: Location: Kinshasa, DRC",
+              "Bio: Programming, automation, cybersecurity, advanced tech & science.",
+              "",
+              "> mindset:",
+          ] + textwrap.wrap(p.mindset, width=82) + [
+              "",
+              "> education:",
+          ] + textwrap.wrap(p.education, width=82) + [
+              "",
+              "> current_activities():",
+          ] + textwrap.wrap(p.current_activities(), width=82) + [
+              "",
+              "> vision_and_goals() [ambition]:",
+          ] + textwrap.wrap(ambition, width=82) + [
+              "",
+              "> vision_and_goals() [long_term_project]:",
+          ] + textwrap.wrap(long_term, width=82)
+
+          line_height = 20
+          start_y = 68
+          svg_height = start_y + len(raw_lines) * line_height + 28
+          total_anim_dur = max(8.0, len(raw_lines) * 0.45 + 2.0)
+
+          tspans = []
+          for idx, text in enumerate(raw_lines):
+              y = start_y + idx * line_height
+              begin_sec = round(idx * 0.35, 2)
+              escaped = html.escape(text) if text else " "
+
+              if text.startswith("$ "):
+                  color = "#58a6ff"
+                  weight = "700"
+              elif text.startswith("[class "):
+                  color = "#7ee787"
+                  weight = "600"
+              elif text.startswith("> "):
+                  color = "#ffa657"
+                  weight = "600"
+              else:
+                  color = "#e6edf3"
+                  weight = "400"
+
+              tspan = (
+                  f'<tspan x="24" y="{y}" fill="{color}" font-weight="{weight}" opacity="0">'
+                  f'{escaped}'
+                  f'<animate attributeName="opacity" from="0" to="1" dur="0.25s" '
+                  f'begin="{begin_sec}s" fill="freeze" />'
+                  f'</tspan>'
+              )
+              tspans.append(tspan)
+
+          cursor_y = start_y + (len(raw_lines) - 1) * line_height + 4
+          svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="860" height="{svg_height}" viewBox="0 0 860 {svg_height}" role="img" aria-label="BienvniKeba Terminal Output">
+  <style>
+    .title {{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; fill: #8b949e; }}
+    .term-text {{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13.5px; }}
+  </style>
+  <rect x="0" y="0" width="860" height="{svg_height}" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <rect x="0" y="0" width="860" height="36" rx="10" fill="#161b22" />
+  <rect x="0" y="24" width="860" height="12" fill="#161b22" />
+  <line x1="0" y1="36" x2="860" y2="36" stroke="#30363d" stroke-width="1" />
+  <circle cx="20" cy="18" r="6" fill="#ff5f56" />
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="18" r="6" fill="#27c93f" />
+  <text x="430" y="22" text-anchor="middle" class="title">bienvni@kinshasa: ~/BienvniKeba.py</text>
+
+  <text class="term-text">
+    {"".join(tspans)}
+  </text>
+
+  <rect x="24" y="{cursor_y}" width="9" height="15" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
+"""
+
+          with open("build/terminal.svg", "w", encoding="utf-8") as f:
+              f.write(svg_content)
+          EOF
+
+      - name: Push terminal.svg to terminal-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: terminal-output
+          build_dir: build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
