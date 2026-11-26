@@ -53,19 +53,16 @@
   💻 <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
                                              | Location: Kinshasa DRC 🇨🇩
 </p>
-<!-- <!-- ========================================================= -->
-<!--                   ABOUT ME (JUSTIFIÉ & ENCADRÉ)           -->
+<!-- <!-- ==================================================== -->
+<!--                     ABOUT ME                              -->
 <!-- ========================================================= -->
 
 
 
-<!--<h2 align="center">👩‍💻 About Me</h2>-->
+
 
 <div align="center">
-<!--  <b>Hi 👋 I'm Bienvni keba</b><br>
-  💻 <em>Passionate about programming, automation, cybersecurity, and advanced technologies and the science.</em><br>
-  I love sports, especially football 🙂, I also play football and video games. | Location: Kinshasa DRC 🇨🇩
-</p>-->
+
 
 <p style="text-align: justify;">
   I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.
@@ -89,13 +86,7 @@
 
 </div>
 
-<!--<p align="center">
-  I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.<br>
-  I'm doing some personal research to find out more. To deepen my knowledge, I am taking several online courses in the fields of technology.<br>
-  I completed my primary and secondary education in 2025 with a state diploma, and in secondary school, I am studying the technical option: general electricity, and at the same time I was learning computer programming.<br>
-  I would like to participate in the development and revolution of the world of science and technology. I would like to make a contribution in many areas of science and technology.<br>
-  I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
-</p>-->
+
 </div>
 
 </div>
@@ -389,3 +380,10 @@ src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&
     alt="Bienvni Keba Footer"
   />
 </p>
+<!--<p align="center">
+  I am so curious, thirsty for knowledge, I am interested in technology and science because it is the foundation.<br>
+  I'm doing some personal research to find out more. To deepen my knowledge, I am taking several online courses in the fields of technology.<br>
+  I completed my primary and secondary education in 2025 with a state diploma, and in secondary school, I am studying the technical option: general electricity, and at the same time I was learning computer programming.<br>
+  I would like to participate in the development and revolution of the world of science and technology. I would like to make a contribution in many areas of science and technology.<br>
+  I have a long-term goal and a grand vision and project for the future. As I said earlier, part of my vision is to create an industry, company, or corporation that would bring developments to several sectors of technology and science.
+</p>-->
